@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I'll be using all of the html skills I learned in Odin project to make a web page that is connected to three other web pages that have instructions for recipes. I will use diffrent heading, paragraph, images, links, unordered and ordered lists in this project.
